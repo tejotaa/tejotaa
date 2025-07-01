@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 Desarrollador [REACT-TS]<br>📱 Explorando [REACT-NATIVE]<br>❤️ Amante del código<br>🌍 Contribuyendo al mundo del software<br>🤝 Abierto a colaboraciones</p>
+<p align="left">👨‍💻 Desarrollador [REACT-TS]<br>📱 Explorando [REACT-NATIVE]<br>❤️ Amante del código<br>🌍 Contribuyendo al mundo del software<br>🤝 Abierto a colaboraciones <br>📍Palma de Mallorca, Islas Baleares, España</p>
 
 ###
 
